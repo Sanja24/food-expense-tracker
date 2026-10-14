@@ -1,0 +1,6 @@
+Date,Breakfast_Mode,Lunch_Mode,Dinner_Mode,DSK_Breakfast,DSK_Lunch,DSK_Dinner,HSK_Breakfast,HSK_Lunch,HSK_Dinner,DSK_Daily_Cost,HSK_Daily_Cost,Total_Daily_Cost,DSK_Paid,HSK_Paid,Total_Paid,Notes
+2026-09-23,shared,separate,shared,125.00,350.00,175.00,125.00,350.00,175.00,650.00,650.00,1300.00,0.00,0.00,0.00,"Initial day: shared breakfast & dinner, separate lunch meals"
+2026-09-24,shared,shared,shared,125.00,175.00,175.00,125.00,175.00,175.00,475.00,475.00,950.00,0.00,0.00,0.00,""
+2026-09-25,shared,shared,shared,125.00,175.00,175.00,125.00,175.00,175.00,475.00,475.00,950.00,0.00,0.00,0.00,""
+2026-09-28,shared,shared,none,125.00,175.00,0.00,125.00,175.00,0.00,300.00,300.00,600.00,0.00,0.00,0.00,"Dinner skipped by both"
+2026-09-29,shared,shared,shared,125.00,175.00,175.00,125.00,175.00,175.00,475.00,475.00,950.00,3500.00,3500.00,7000.00,"September mid-cycle food payment settled"
